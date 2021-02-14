@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3074d267-60d3-4d0a-947a-d4cc7a7ef176" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1oQrbJBwlxyLg0npevlGkWV3e3V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\runCloud\src" />
+      <recent name="C:\xampp\htdocs\runCloud\src\user" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3074d267-60d3-4d0a-947a-d4cc7a7ef176" name="Default Changelist" comment="" />
+      <created>1613229724259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613229724259</updated>
+      <workItem from="1613229731141" duration="7262000" />
+      <workItem from="1613277849308" duration="12474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1267" y="246" key="NewPhpClassDialog" timestamp="1613277896583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1267" y="246" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613277896583" />
+    <state x="1274" y="447" key="NewPhpFileDialog" timestamp="1613229763741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613229763741" />
+  </component>
+</project>
